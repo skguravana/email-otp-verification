@@ -1,7 +1,7 @@
 # email-otp-verification
 This project is a simple OTP (One-Time Password) Email Verification System built with Node.js, Express.js, HTML, CSS, and JavaScript. It allows users to verify their email addresses by sending a 4-digit OTP to their email and validating it.
 
-Features
+#Features\n
   Validate email input format.
   Generate and send OTP via email using NodeMailer.
   Verify the OTP entered by the user.
